@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Weibo Control
+Comment=Central de Configuração do Mouse Weibo
+Exec=/home/carlos/Drivers/weibo/run.sh
+Icon=input-mouse
+Terminal=false
+Type=Application
+Categories=Utility;Settings;HardwareSettings;
